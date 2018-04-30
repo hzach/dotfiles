@@ -1,3 +1,10 @@
+" execute pathogen runtime manipulation. this has to run first.
 execute pathogen#infect()
-syntax enable             " syntax highlighting
-set number                " show line numbers
+
+" enable some sexy colors
+colorscheme badwolf
+
+" these shouldn't need justification
+syntax enable             
+set number                
+set autoindent    
