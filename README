@@ -1,6 +1,9 @@
-Installation:
+A little repo for keeping my vim configuration across all my machines.
 
-    git clone git://github.com/hzach/dotvim.git ~/.vim
+Make sure you have Pathogen installed before installation.
+
+Installation:
+    git clone git://github.com/hzach/dotfiles.git ~/.vim
 
 Create symlinks:
 
