@@ -1,3 +1,21 @@
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
 	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/syntax"]
+	path = bundle/syntax
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
+[submodule "bundle/indentLine"]
+	path = bundle/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "bundle/vim-auto-save"]
+	path = bundle/vim-auto-save
+	url = https://github.com/vim-scripts/vim-auto-save.git
+[submodule "bundle/YouCompleteMe"]
+  path = bundle/YouCompleteMe
+  url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "bundle/auto-pairs"]
+  path = bundle/auto-pairs
+  url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "bundle/syntastic"]
+  path = bundle/syntastic
+  url = https://github.com/vim-syntastic/syntastic.git
